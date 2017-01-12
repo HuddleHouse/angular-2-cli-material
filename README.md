@@ -2,7 +2,7 @@
 
 This is the Github repo for the tutorial found at [https://progblog.io/Angular-2-Tutorial-Create-an-App-With-Angular-CLI-and-Angular-Material-Design/](https://progblog.io/Angular-2-Tutorial-Create-an-App-With-Angular-CLI-and-Angular-Material-Design/)
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
+In the tutorial we generte an app using the Angular CLI. We then add [Angular Material](https://material.angular.io/) for styling and set it up. This is a good starting point when getting familiar with Angular 2 Material Design.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
